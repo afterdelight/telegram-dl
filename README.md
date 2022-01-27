@@ -1,25 +1,21 @@
-# tg-media-export 👻
-telegram media(photo,gif,video) export
+# Telegram channel media downloader
+Download photos, videos, voices, round voices and group profile photos
 
 ## Installation
 
 Python3.6+
 
 ```
-pip install telethon
+install requirements.txt
+then edit api id, api hash and channel id in the script
 ```
 
 get your api_id,api_hash in 
 [https://my.telegram.org/apps](https://my.telegram.org/apps)
 
-modify main.py
-
 ## Usage
 
 ```
-python3 main.py
+python3 download.py
 ```
-
-## License
-
-[The Unlicense](https://unlicense.org)
+If you want to donate, donate to paypal at c4.and.after@hotmail.com
