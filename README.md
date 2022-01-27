@@ -1,5 +1,5 @@
 # Telegram channel media downloader
-Download photos, videos, voices, round voices and group profile photos
+Download photos, videos, voices, round voices and group profile photos from telegram
 
 ## Installation
 
