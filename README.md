@@ -18,4 +18,4 @@ get your api_id,api_hash in
 ```
 python3 download.py
 ```
-If you want to donate, donate to paypal at c4.and.after@hotmail.com
+If you want to donate, donate to paypal at https://paypal.me/afterdelight or c4.and.after@hotmail.com
