@@ -1,5 +1,5 @@
 # Telegram channel media downloader
-Download photos, videos, voices, round voices and group profile photos from telegram
+Download photos, videos, voices, round voices and group profile photos from telegram group channel
 
 ## Installation
 
@@ -7,7 +7,7 @@ Python3.6+
 
 ```
 install requirements.txt
-then edit api id, api hash and channel id in the script
+then edit api id, api hash and channel id inside download.py
 ```
 
 get your api_id,api_hash in 
